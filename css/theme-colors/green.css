@@ -1,0 +1,99 @@
+/*
+*	 Author: beshleyua
+*	 Author URL: http://themeforest.net/user/beshleyua
+*/
+
+/* TABLE OF CONTENTS
+	1. Theme Blue
+*/
+
+/* 1. Theme Blue */
+a:hover {
+	color: #378bfa;
+}
+
+.header .logo {
+	background: #378bfa;
+}
+
+.header .top-menu ul li.active a {
+	color: #378bfa;
+}
+
+.header .top-menu ul li.active a .icon {
+	color: #378bfa;
+}
+
+.header .social a:hover .icon {
+	color: #378bfa;
+}
+
+.card-inner .card-wrap .title span {
+	color: #378bfa;
+}
+
+.content.inner-top .text p strong {
+	color: #378bfa;
+}
+
+.content.inner-top .circle-bts a:hover .icon {
+	color: #378bfa;
+}
+
+.content.inner-top .circle-bts a:hover span {
+	color: #378bfa;
+}
+
+.service-items .service-item .icon {
+	color: #378bfa;
+}
+
+.pricing-items .pricing-item .icon {
+	color: #378bfa;
+}
+
+.pricing-items .pricing-item .feature-list ul li strong {
+	background: #378bfa;
+}
+
+.pricing-items .pricing-item .lnks .lnk span {
+	color: #378bfa;
+}
+
+.fuct-items .fuct-item .icon {
+	color: #378bfa;
+}
+
+.resume-items .resume-item.active .date {
+	color: #378bfa;
+}
+
+.skills-list ul li .progress .percentage {
+	background: #378bfa;
+}
+
+.content.works .filter-menu .f_btn.active {
+	color: #378bfa;
+}
+
+.box-item .image .info:before,
+.box-item .image .info:after {
+	background: #378bfa;
+}
+
+.contacts-items .contacts-item .icon {
+	color: #378bfa;
+}
+
+.post-box .blog-content blockquote {
+	border-left-color: #378bfa;
+}
+
+.post-box .blog-content ul.list-style li:before {
+	background: #378bfa;
+}
+
+.post-box .post-comments li .comment-info .name h6 {
+	color: #378bfa;
+}
+
